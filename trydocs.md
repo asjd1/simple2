@@ -7,3 +7,5 @@ This document describes `how to use` the Pavel robotic toothbrush.
 Note that this toothbrush is not safe for children, adults, or pets.  It also works with robots.
 
 Use the `POST` method to secure the endpoint for your API.
+
+Here we go again.
