@@ -1,6 +1,6 @@
 # My first file
 
-This document describes `how to use` the Pavel robotic toothbrush.  
+This document describes `how to use` the Kavel robotic toothbrush.  
 
 ## Learning more
 
