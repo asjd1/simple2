@@ -6,6 +6,8 @@ This document describes `how to use` the Pavel robotic toothbrush.
 
 Note that this toothbrush is not safe for children, adults, or pets, or wildlife.  
 
+Now let's use the `DELETE` method to achieve this.
+
 Use the `POST` method to secure the endpoint for your API.
 
 Let's move on.
